@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @magnum7701
 - 👀 I’m interested in  Web Development , JAVA and Android Development
-- 🌱 I’m currently learning Web development, Core JAVA and Kotlin
+- 🌱 I’m currently learning Web development, Core JAVA and Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me via : Email : ghoshsoham1708@gmail.com
 - 😄 Pronouns: He/Him

@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
 <h1 align="center">Hi 👋, I'm Soham Ghosh</h1>
-<h3 align="center">Hey there, its Soham this side.|| Currently pursuing B.Tech in Computer Science and Engineering.|| HTML|| CSS || JS || React || Mongo || Node || Express || C,C++ || Flutter || JAVA || Python || Exploring and learning about the world of coding.|| Eager to learn new things and tech</h3>
+<h3 align="center"> Hi, I'm Soham – a B.Tech Computer Science and Engineering student, passionate about coding and always eager to learn new technologies. I work with HTML, CSS, JavaScript, React, MongoDB, Node.js, Express, C/C++, Flutter, Java, and Python while continuously exploring the ever-evolving world of tech.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magnum7701" alt="magnum7701" /></a> </p>
 

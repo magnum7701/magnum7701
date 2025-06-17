@@ -32,6 +32,6 @@
 magnum7701/magnum7701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2>Holoping Badges</h2>
+<h2>Holopin Badges</h2>
 
 [![An image of @magnum7701's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/magnum7701)](https://holopin.io/@magnum7701)
